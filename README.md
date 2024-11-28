@@ -59,4 +59,4 @@ Reforçar e consolidar o aprendizado de Python por meio de prática contínua e 
 ## 🚀 Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/R1ckOrtiz/CursoEmVideo
+    git clone https://github.com/R1ckOrtiz/CursoEmVideo
